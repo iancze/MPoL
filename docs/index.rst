@@ -6,14 +6,14 @@
 Million Points of Light (MPoL)
 ==============================
 
-MPoL is a Python framework for Regularized Maximum Likelihood (RML) imaging. It is built on top of PyTorch, which provides state of the art auto-differentiation capabilities and optimizers. 
-
-You can find the source code on `github <https://github.com/iancze/MPoL>`_.
+MPoL is a Python framework for Regularized Maximum Likelihood (RML) imaging. You can find the source code on `github <https://github.com/iancze/MPoL>`_. To get started, check out the introduction to RML.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   introduction.rst
+   layers.rst
    installation.rst
    usage.rst
    api.rst
